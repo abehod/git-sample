@@ -1,13 +1,7 @@
+Hello Git
+My name is Yura 
+an I am a beginner 
+in Informational Technologies
 
-Hello GIT 123
 
-It's new line 
 
-add new line
-
-new line 123456789
-<<<<<<< HEAD
-
-=======
-the end
->>>>>>> parent of 00bcf96 (Commit to dell)
